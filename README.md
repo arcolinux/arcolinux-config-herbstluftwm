@@ -1,1 +1,1 @@
-# ArcoLinux-config for awesome
+# ArcoLinux-config for herbstluftwm
