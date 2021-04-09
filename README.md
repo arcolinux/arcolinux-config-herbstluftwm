@@ -1,1 +1,1 @@
-# ArcoLinux-config for herbstluftwm
+# ArcoLinux-config
